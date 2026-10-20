@@ -1,8 +1,8 @@
-streamlit==1.28.1
-pandas==2.1.1
-numpy==1.24.3
-plotly==5.17.0
-pytz==2023.3
-qrcode==7.4.2
-pillow==10.0.0
-streamlit-extras==0.3.5
+streamlit
+pandas
+numpy
+plotly
+pytz
+qrcode
+pillow
+streamlit-extras
